@@ -83,18 +83,18 @@ p {
   background-size: 15%;
   background-position: left top;
 }
-.know-community {
+.know-Dreams {
   background-image: url(images/shapes/shape-7.png);
   background-repeat: no-repeat;
   background-size: 15%;
   background-position: right bottom;
 }
-#corona-app-text-line-center {
+#Contact-app-text-line-center {
   text-align: center;
   font-size: 40px;
   font-weight: 700;
 }
-.corona-app {
+.Contact-app {
   background-color: #f7f7f7;
   text-align: center;
   width: 85%;
